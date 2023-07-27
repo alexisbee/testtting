@@ -83,7 +83,7 @@
     border-radius: 0;
 }
 :root {
-    --mactitlebar-left-margin: 0px;
+    --mactitlebar-left-margin: 5px;
     --mactitlebar-top-margin: 10px;
     --mactitlebar-button-width: 20px;
     --mactitlebar-button-height: 20px;
