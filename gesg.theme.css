@@ -84,7 +84,7 @@
 }
 :root {
     --mactitlebar-left-margin: 0px;
-    --mactitlebar-top-margin: 5px;
+    --mactitlebar-top-margin: 10px;
     --mactitlebar-button-width: 20px;
     --mactitlebar-button-height: 20px;
     --mactitlebar-button-border-radius: 50px;
@@ -96,3 +96,13 @@
     --macbuttons-serverlist-outer-top-margin: 0;
     --macbuttons-serverlist-outer-height: 100%;
   }
+
+.typeWindows-2-g3UY {
+  right: 0;
+  top: -6px;
+}
+
+.platform-win .title-31SJ6t,
+.header-3OsQeK {
+  margin-top: 20px;
+}
